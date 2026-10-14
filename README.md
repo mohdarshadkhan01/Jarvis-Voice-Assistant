@@ -128,3 +128,6 @@ To make the assistant more advanced, computer vision can be introduced for featu
 For a conceptual overview of building voice assistants in Python, you can refer to this article: [CLICK HERE](https://www.mygreatlearning.com/blog/jarvis-desktop-assistant-python-project/)
 
 ---
+
+## 📌Author
+[Mohd Arshad Khan](https://github.com/mohdarshadkhan01)
